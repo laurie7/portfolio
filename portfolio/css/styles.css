@@ -13,3 +13,7 @@ img {
 .contact {
   display: inline;
 }
+
+.footer {
+  position: fixed;
+}
