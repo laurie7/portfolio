@@ -1,7 +1,15 @@
-h1 {
+body {
+  background-color: gray;
+}
 
+h1 {
+  background-color: whitesmoke;
 }
 
 img {
-  
+  display: flex;
+}
+
+.contact {
+  display: inline;
 }
