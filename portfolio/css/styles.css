@@ -16,7 +16,7 @@ h2 {
   text-align: center;
 }
 
-p {
+.paragraph p {
   display: block;
   text-align: center;
   margin: 0 auto;
@@ -31,11 +31,26 @@ img {
   border: 5px solid gray;
 }
 
-ul {
+/*  ul {
   display: table;
   margin: 0 auto;
 }
 
-/* .contact {
+/*  .contact {
   display: inline;
-} 
+} */
+
+.footer-one {
+  float: left;
+  font-size: 10pt;
+}
+
+.footer-two {
+  float: right; 
+  font-size: 10pt;
+}
+
+.list-style ul {
+  display: table;
+  margin: 0 auto;
+}
