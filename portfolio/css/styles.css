@@ -1,16 +1,15 @@
 body {
-  background-color: gray;
+  background-color: darkgray;
 }
 
 h1 {
   background-image: url('https://media.istockphoto.com/photos/background-blue-gradient-abstract-picture-id910021106?k=6&m=910021106&s=612x612&w=0&h=dJ1HiBOr6KTiE5c1odNULI8MbYdpDSZAZD_uS_NEGHQ=');
   text-align: center;
   display: block;
+  padding-top: 10px;
+  padding-bottom: 10px;
   width: 100%;
   opacity: 0.5;
-  position: fixed;
-  top: 20px;
-
 }
 
 h2 {
@@ -26,14 +25,15 @@ p {
 }
 
 img {
-  display: flex;
+  display: block;
+  box-sizing: border-box;
   margin: 0 auto;
-  
-  border: 2px black;
+  border: 5px solid gray;
 }
 
 ul {
-  text-align: center;
+  display: table;
+  margin: 0 auto;
 }
 
 /* .contact {
