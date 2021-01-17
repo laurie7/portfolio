@@ -15,7 +15,7 @@ _This website contains my essential information for employers and any interested
 
 ## Setup/Installation Requirements
 
-* Click on the --- link to access the webpage.
+* _Go to https://laurie7.github.io/portfolio to access the webpage._
 
 ## Known Bugs
 
